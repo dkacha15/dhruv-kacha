@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dhruv-kacha/static/css/main.88c58c3a.css",
-    "main.js": "/dhruv-kacha/static/js/main.6ddf0fdd.js",
-    "static/js/787.1ed0c42c.chunk.js": "/dhruv-kacha/static/js/787.1ed0c42c.chunk.js",
-    "static/media/ProfilePicture.jpg": "/dhruv-kacha/static/media/ProfilePicture.9bbb8b022923e168e3cc.jpg",
-    "index.html": "/dhruv-kacha/index.html",
-    "main.88c58c3a.css.map": "/dhruv-kacha/static/css/main.88c58c3a.css.map",
-    "main.6ddf0fdd.js.map": "/dhruv-kacha/static/js/main.6ddf0fdd.js.map",
-    "787.1ed0c42c.chunk.js.map": "/dhruv-kacha/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.88c58c3a.css",
+    "main.js": "/static/js/main.36d72b3c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ProfilePicture.jpg": "/static/media/ProfilePicture.9bbb8b022923e168e3cc.jpg",
+    "index.html": "/index.html",
+    "main.88c58c3a.css.map": "/static/css/main.88c58c3a.css.map",
+    "main.36d72b3c.js.map": "/static/js/main.36d72b3c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88c58c3a.css",
-    "static/js/main.6ddf0fdd.js"
+    "static/js/main.36d72b3c.js"
   ]
 }
