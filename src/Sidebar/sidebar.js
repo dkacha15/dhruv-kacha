@@ -15,10 +15,10 @@ const Sidebar = () => {
       </div>
       <div>
         <ul className="links">
-          <Link className="links" to="/">
+          <Link className="links" to="/dhruv-kacha/">
             <div>Home</div>
           </Link>
-          <Link className="links" to="/about">
+          <Link className="links" to="/dhruv-kacha/about">
             <div>About</div>
           </Link>
           <Link className="links" to="/">
