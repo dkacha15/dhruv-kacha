@@ -8,8 +8,8 @@ const Routing = () => {
   return (
     <AnimatePresence>
       <Routes key={location.pathname} location={location}>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/dhruv-kacha/" element={<Home />} />
+        <Route path="/dhruv-kacha/about" element={<About />} />
       </Routes>
     </AnimatePresence>
   );
