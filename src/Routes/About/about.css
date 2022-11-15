@@ -1,0 +1,56 @@
+.tags {
+  color: #555555;
+  font-style: italic;
+  font-family: "Alex Brush", cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.nopadding {
+  padding-right: 0px !important;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.Bounce-box1 {
+  display: flex;
+  font-family: "Open Sans", sans-serif;
+  height: 70px !important;
+}
+
+.Bounce-box-space1 {
+  margin-left: 28px !important;
+  display: flex;
+  font-family: "Open Sans", sans-serif;
+  height: 70px !important;
+}
+
+.Bounce1 {
+  color: #08fdd8;
+  border: none;
+  font-size: 70px;
+  display: flex;
+  font-weight: bolder;
+}
+
+.animated {
+  animation: animate 0.6s;
+}
+
+@keyframes animate {
+  40% {
+    transform: scale(1.2, 0.8);
+  }
+  50% {
+    transform: scale(1.1, 0.8);
+  }
+  60% {
+    transform: scale(0.7, 1.2);
+  }
+  70% {
+    transform: scale(1.1, 0.8);
+  }
+  80% {
+    transform: scale(0.7, 1.2);
+  }
+}

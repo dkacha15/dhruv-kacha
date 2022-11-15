@@ -1,0 +1,77 @@
+.home {
+  margin-left: 50px !important;
+  margin-top: 30px !important;
+}
+
+.tags {
+  color: #555555;
+  font-style: italic;
+  font-family: "Alex Brush", cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.full-stack {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  letter-spacing: 4px;
+  color: #8d8d8d;
+  margin-left: 60px;
+}
+
+.Bounce-box {
+  display: flex;
+  font-family: "Open Sans", sans-serif;
+  height: 100px !important;
+}
+
+.Bounce-box-space {
+  margin-left: 28px !important;
+  display: flex;
+  font-family: "Open Sans", sans-serif;
+  height: 100px !important;
+}
+
+.Bounce {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-size: 100px;
+  display: flex;
+  font-weight: bolder;
+}
+
+.Not-bounce {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-size: 100px;
+  display: flex;
+  font-weight: bolder;
+}
+
+.Bounce:hover {
+  color: #08fdd8;
+}
+
+.animated {
+  animation: animate 0.6s;
+}
+
+@keyframes animate {
+  40% {
+    transform: scale(1.2, 0.8);
+  }
+  50% {
+    transform: scale(1.1, 0.8);
+  }
+  60% {
+    transform: scale(0.7, 1.2);
+  }
+  70% {
+    transform: scale(1.1, 0.8);
+  }
+  80% {
+    transform: scale(0.7, 1.2);
+  }
+}
